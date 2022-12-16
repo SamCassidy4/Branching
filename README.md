@@ -15,3 +15,4 @@
 * 'git branch' - lists local branches
 * 'git branch "your name here"'- creates new Branch
 * 'git checkout "branch name here"' - switches to other branch
+* 'git checkout -b "branch name here"' - create and checkout new branch
