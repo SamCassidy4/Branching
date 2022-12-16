@@ -1,5 +1,8 @@
 ## Git Cheat Sheet and Branching Practice
 
+### Overview
+Branches are versatile when working with people
+
 
 ### Basic Commands
 * 'git init' -initialize local repository
