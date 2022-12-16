@@ -10,3 +10,8 @@
 * 'git log' - shows all commits made
 * 'git log --oneline'- shows all commits made with a unique 7 digit
 * 'git status' - shows status of working directory
+
+### Working with others Commands
+* 'git branch' - lists local branches
+* 'git branch "your name here"'- creates new Branch
+* 'git checkout "branch name here"' - switches to other branch
